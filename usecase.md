@@ -19,7 +19,7 @@ Met deze use case willen we het volgende bereiken:
 
 **Zodat** de semantische relaties geautomatiseerd kunnen worden ingelezen en bijgewerkt in deze twee modellen.
 
-![](media/e6daf9da9761a272662e28fedaeab041.png)
+![](media/b280c11ab8ac7e4e15e94921b67a78c0.png)
 
 ### Scope
 
