@@ -6,7 +6,7 @@ De relaties tussen concepten in verschillende registraties worden gelegd met «t
 
 Met deze use case willen we het volgende bereiken:
 
-1.  Het vertalen van het samenhangende semantische model in implementatiebestanden als input voor de KKG en de orchestratie-engine.
-2.  Het aansluiten van één of meer product API’s op de orchestratielaag op basis van een productmodel als subset van het semantisch model.
+-   Het vertalen van het samenhangende semantische model in implementatiebestanden als input voor de KKG en de orchestratie-engine.
+-   Het aansluiten van één of meer product API’s op de orchestratielaag op basis van een productmodel als subset van het semantisch model.
 
 ![](media/7fe6d26181b523deb3db60ef6af5e6e9.png)
