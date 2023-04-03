@@ -45,8 +45,8 @@ bijgewerkt in deze twee modellen.
 
 -   Opstellen formele taal voor model mapping (vertaalspecificaties).
 
--   (ShapeChange o.i.d als tool om cross domain model (IMX) om te zetten naar
-    implementatiebestanden voor KKG model en orchestration engine.)
+-   ShapeChange o.i.d als tool om cross domain model (IMX) om te zetten naar
+    implementatiebestanden voor KKG model en orchestration engine.
 
 -   Uitbreiden capabilities van de orchestration engine en OCG API Provider met
     o.m. paging.
