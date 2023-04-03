@@ -58,11 +58,11 @@ var respecConfig =
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
   //publishDate: "2022-07-11",  	    // Format is "YYYY-MM-DD"
   //-- Repositorynaam op GitHub -------------------------------------------------------
-  github: "https://github.com/geonovum/WaU-UC1",
+  github: "https://github.com/geonovum/WaU-UC3",
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
-  issueBase: "https://github.com/geonovum/WaU-UC1/issues",
+  issueBase: "https://github.com/geonovum/WaU-UC3/issues",
   //-- edDraftURI: de URI van de werkversie van het document
-  edDraftURI: "https://geonovum.github.io/WaU-UC1",
+  edDraftURI: "https://geonovum.github.io/WaU-UC3",
   //-- de namen van de Editor(s) ------------------------------------------------------
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
   
@@ -86,9 +86,9 @@ var respecConfig =
     }
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
-  shortName: "WaU-UC1",  	              // Wordt gebruikt in de document URL
+  shortName: "WaU-UC3",  	              // Wordt gebruikt in de document URL
   //-- pubDomain is verplicht! (komt in de URL: Activeer 1 van de volgende) ------------
-  pubDomain: "WaU-UC1", 	              // Werk aan Uitvoering
+  pubDomain: "WaU-UC3", 	              // Werk aan Uitvoering
   //pubDomain: "mim", 	            // Metamodel Informatie Modellering
   //pubDomain: "bor", 	            // Beheer Openbare Ruimte
   //pubDomain: "bro", 	            // Basisregistratie Ondergrond
