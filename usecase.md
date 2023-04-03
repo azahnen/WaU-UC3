@@ -25,7 +25,10 @@ Met deze use case willen we het volgende bereiken:
     van het productmodel Gebouw+ (zie Gegevensdefinitie) als subset van het
     semantisch model.
 
-### ![Afbeelding met diagram Automatisch gegenereerde beschrijving](media/547672f30ca05e9e77ebecc364759e23.png)User story
+![Afbeelding met diagram Automatisch gegenereerde
+beschrijving](media/547672f30ca05e9e77ebecc364759e23.png)
+
+### User story
 
 **Als** beheerder van het cross domain model
 
